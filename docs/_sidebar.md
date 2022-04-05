@@ -1,7 +1,9 @@
 * [首页](/)
+* 操作日志
+    * [2022](/log/2022.md)
 * 定期报告
     * 2021
-        * [半年报](/reports/2021/report-2021H1.md)
+        * [年报](/reports/2021/report-2021.md)
     * 2020
         * [1季报](/reports/2020/report-2020Q1.md)
         * [半年报](/reports/2020/report-2020Q2.md)
