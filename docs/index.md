@@ -45,6 +45,9 @@ update:2023/7/1
 
 ## [联系我](https://yifeitao.com/about/)
 
+## 相关链接
+* [财务报表分析与证券投资第5版中文版习题解答](https://github.com/ifeitao/penman5e)
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
 <script src="netvalue.js"></script>
