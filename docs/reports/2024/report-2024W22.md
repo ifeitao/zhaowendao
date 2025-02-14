@@ -4,7 +4,7 @@
 
 同样的股票，在不同的人眼中是不同的东西，有的人眼中是获取企业分红的凭据，而在有的人眼中则是赌博的筹码。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/NxlumZAmv88avGB5QfHVicSMtfJm327pQPKXgbOKJ3HgpMb9SgjEK0NicMFK78p12msDBeKmkH6Yu05lVuXgEJIA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![1739485771913](image/report-2024W22/1739485771913.png)
 
 ## 分红逻辑
 

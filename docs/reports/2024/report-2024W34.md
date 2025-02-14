@@ -1,7 +1,4 @@
-# 
-
 # 游戏产业的价值是什么？——周报20240825
-
 
 ![1739484984555](image/report-2024W34/1739484984555.png)
 
@@ -19,4 +16,4 @@
 
 最新持仓情况 统计时间 20240825
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/NxlumZAmv8iczroIvVPv5f9V0kamg6XL7oBpgUh837aeaQSEibdSrJia8RKs0DPlpEzXRzT1My81hiarYy2eVog7ZQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![1739496548291](image/report-2024W34/1739496548291.png)
