@@ -4,6 +4,21 @@ theme:
   language: zh
 nav:
   - 首页: index.md
+  - 投资品种:
+    - 股票:
+      - 腾讯控股: assets/tencent.md
+      - 小米集团: assets/xiaomi.md
+      - 贵州茅台: assets/maotai.md
+      - 安克创新: assets/ankr.md
+      - 伯克希尔-哈撒韦: assets/berkshire.md
+      - 名创优品: assets/miniso.md
+      - 泡泡玛特: assets/popmart.md
+      - 瑞幸咖啡: assets/luckin.md
+      - 拼多多: assets/pinduoduo.md
+    - 区块链:
+      - BTC: assets/btc.md
+      - ETH: assets/eth.md
+      - SOL: assets/sol.md
   - 定期报告:
     - 2024年:
       - W1周报: reports/2024/report-2024W1.md
@@ -18,13 +33,13 @@ nav:
       - W19周报: reports/2024/report-2024W19.md
       - W20周报: reports/2024/report-2024W20.md
       - W21周报: reports/2024/report-2024W21.md
-      - W22周报: reports/2024/report-2024W22.md
-      - 半年报: reports/2024/report-2024H1.md
-      - W34周报: reports/2024/report-2024W34.md
-      - W38周报: reports/2024/report-2024W38.md
-      - W39周报: reports/2024/report-2024W39.md
-      - W44周报: reports/2024/report-2024W44.md
-      - 年报: reports/2024/report-2024.md
+      - W22周报-分红、讲故事与赌博: reports/2024/report-2024W22.md
+      - 半年报-投资需要学习什么知识？: reports/2024/report-2024H1.md
+      - W34周报-游戏产业的价值是什么？: reports/2024/report-2024W34.md
+      - W38周报-直觉投资者、被动投资者和主动投资者: reports/2024/report-2024W38.md
+      - W39周报-从名创优品收购永辉超市聊企业家精神: reports/2024/report-2024W39.md
+      - W44周报-牛市与赌场: reports/2024/report-2024W44.md
+      - 年报-买股票的三层逻辑: reports/2024/report-2024.md
     - 2023年:
       - 半年报: reports/2023/report-2023H1.md
       - W49周报: reports/2023/report-2023W49.md
