@@ -20,6 +20,8 @@ nav:
       - ETH: assets/eth.md
       - SOL: assets/sol.md
   - 定期报告:
+    - 2025年:
+      - W7周报-关于大S去世后讨论的思考: reports/2025/report-2025W7.md
     - 2024年:
       - W1周报: reports/2024/report-2024W1.md
       - W2周报: reports/2024/report-2024W2.md
